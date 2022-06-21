@@ -1,0 +1,2 @@
+https://laravel-livewire.com/docs/2.x/quickstart
+php artisan make:livewire counter
